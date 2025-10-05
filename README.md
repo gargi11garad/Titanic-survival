@@ -100,22 +100,7 @@ seaborn
 
 scikit-learn
 
-⚙️ How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/yourusername/Titanic_survival.git
-cd titanic-survival-prediction
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the Jupyter notebook or Python script:
-
-jupyter notebook Titanic_Survival.ipynb
 
 
 View results and model comparison charts.
